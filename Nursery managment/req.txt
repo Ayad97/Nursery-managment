@@ -1,3 +1,0 @@
-#008c99
-font-family: bubblegum sans,cursive;
-font-family: lato,sans-serif;
